@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rishi",
+      "username": "rishi_dev",
+      "email": "rishi@gmail.com",
+      "phone": "9876543210",
+      "age": 22,
+      "city": "Lucknow",
+      "role": "Developer"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "username": "rahul123",
+      "email": "rahul@gmail.com",
+      "phone": "9876543211",
+      "age": 23,
+      "city": "Kanpur",
+      "role": "Student"
+    },
+    {
+      "id": "3",
+      "name": "Aman",
+      "username": "aman_coder",
+      "email": "aman@gmail.com",
+      "phone": "9876543212",
+      "age": 21,
+      "city": "Prayagraj",
+      "role": "Designer"
+    },
+    {
+      "id": "4",
+      "name": "Priya",
+      "username": "priya_web",
+      "email": "priya@gmail.com",
+      "phone": "9876543213",
+      "age": 22,
+      "city": "Delhi",
+      "role": "Developer"
+    },
+    {
+      "id": "5",
+      "name": "Aman Verma",
+      "username": "aman_verma",
+      "email": "amanverma@gmail.com",
+      "phone": "9876543214",
+      "age": 24,
+      "city": "Varanasi",
+      "role": "Tester"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "title": "Mobile",
+      "price": 20000,
+      "category": "Electronics",
+      "stock": 15
+    },
+    {
+      "id": "3",
+      "title": "Keyboard",
+      "price": 1200,
+      "category": "Accessories",
+      "stock": 25
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction to React",
+      "body": "React is a JavaScript library for building user interfaces.",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Learning JavaScript",
+      "body": "JavaScript makes web pages interactive.",
+      "userId": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

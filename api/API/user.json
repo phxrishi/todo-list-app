@@ -1,0 +1,107 @@
+{
+  "user": [
+    {
+      "name": "Aarav Sharmain",
+      "email": "aarav.sharma@gmail.com",
+      "phone": "9876543210",
+      "id": "1"
+    },
+    {
+      "name": "Rahul ji",
+      "email": "rahul.singh98@gmail.com",
+      "phone": "9876543212",
+      "id": "3"
+    },
+    {
+      "name": "Sneha Mishra",
+      "email": "sneha.mishra21@gmail.com",
+      "phone": "4202030",
+      "id": "6"
+    },
+    {
+      "name": "Pooja Singh",
+      "email": "23@gmail.com",
+      "phone": "9876543217",
+      "id": "8"
+    },
+    {
+      "id": "10",
+      "name": "Neha Joshi",
+      "email": "neha.joshi2003@gmail.com",
+      "phone": "9876543219"
+    },
+    {
+      "id": "11",
+      "name": "Karan Malhotra",
+      "email": "karan.malhotra99@gmail.com",
+      "phone": "9876543220"
+    },
+    {
+      "id": "12",
+      "name": "Riya Agarwal",
+      "email": "riya.agarwal24@gmail.com",
+      "phone": "9876543221"
+    },
+    {
+      "id": "13",
+      "name": "Aditya Mishra",
+      "email": "aditya.mishra2002@gmail.com",
+      "phone": "9876543222"
+    },
+    {
+      "id": "14",
+      "name": "Simran Kaur",
+      "email": "simran.kaur23@gmail.com",
+      "phone": "9876543223"
+    },
+    {
+      "id": "15",
+      "name": "Mohit Saxena",
+      "email": "mohit.saxena98@gmail.com",
+      "phone": "9876543224"
+    },
+    {
+      "id": "16",
+      "name": "Kavya Tiwari",
+      "email": "kavya.tiwari2005@gmail.com",
+      "phone": "9876543225"
+    },
+    {
+      "id": "17",
+      "name": "Saurabh Dubey",
+      "email": "saurabh.dubey99@gmail.com",
+      "phone": "9876543226"
+    },
+    {
+      "id": "18",
+      "name": "Isha Kapoor",
+      "email": "isha.kapoor2003@gmail.com",
+      "phone": "9876543227"
+    },
+    {
+      "id": "19",
+      "name": "Manish Chauhan",
+      "email": "manish.chauhan98@gmail.com",
+      "phone": "9876543228"
+    },
+    {
+      "id": "20",
+      "name": "Divya Srivastava",
+      "email": "divya.srivastava24@gmail.com",
+      "phone": "9876543229"
+    },
+    {
+      "name": "Rishikant Tiwari",
+      "email": "rt799786@gmail.com",
+      "phone": "8726167715",
+      "id": "SX0CB2ezj6M"
+    },
+    {
+      "name": "annu Gupta",
+      "email": "a@gmail.com",
+      "phone": "8726167715",
+      "id": "GSD-i6DFaMM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
